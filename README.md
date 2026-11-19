@@ -2,7 +2,7 @@
 
 ## Student Information
 - Name: Michael Cadiz
-- Section: 
+- Section: B186
 - Date: November 19, 2026
 
 ## Laboratory Description
