@@ -24,22 +24,6 @@ shared-resource management using Python.
 
 ---
 
-## Screenshots of Program Execution
-
-### Task 1: Single Thread Execution
-![Task 1 Execution](screenshots/task1_execution.png)
-
-### Task 2: Multiple Threads Execution
-![Task 2 Execution](screenshots/task2_execution.png)
-
-### Task 3: Thread Synchronization Using join()
-![Task 3 Execution](screenshots/task3_execution.png)
-
-### Task 4: Shared Resource Management Using Lock()
-![Task 4 Execution](screenshots/task4_execution.png)
-
----
-
 ## Lab Guide Questions & Simplified Answers
 
 ### Part 2: Task 1 – Single Thread
